@@ -1,0 +1,13 @@
+This program is named "euromillions" and works with the relational database "MySql" of the company Oragle. The data scheme is named "heureuxmillions" and literally means happymillions in French.
+
+The program is fully written in java and is far from being finalized and realized with the netbeans IDE.
+
+The program is licensed under MIT and may be duplicated, modified, distributed and licensed.
+
+The principle of this program, in the course of evolution, is to work not on probabilities but on a more concrete principle such as cycles of successive draws.
+
+This program does not treat the stars and only concerns the numbers.
+
+A cycle is performed when, starting from a drawing date, the first one for example, the 50 numbers are output after n titrations.
+
+This program proposes to visualize the cycles by date of release or by number of drawing per cycle. It also provides statistics on the occurrence of each issue in a given cycle, a cycle summary, cycle patterns and a validation grid to record one or more games on the official date of the next draw.
